@@ -1,17 +1,67 @@
-* {
-  margin:0px;
-  padding:0px;
-}
+<!DOCTYPE html>
+<html>
+<head>
+<title> Martin Garrix</title>
+<h1> Martin Garrix </h1>
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
-}
 
+<style>
+h1 {
+  color: Grey;
+  text-align: center;
+  font-size: 30px;
+  }
+h2 {
+  color: Grey;
+  text-align: center;
+  font-size: 25px;
+
+  }
 p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  color: darkGrey;
+  font-size: 20px;
+  }
+body {
+  background-color: Lightyellow	;
 }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h4 {
+  color: Grey;
+  text-align: center;
+  font-size: 15px;
+  }
+</style>
+</head>
+<body>
+<h2>Una Mica d'història</h2>
+<p><a href="https://martingarrix.com/"target =_blank>Martĳn Gerard Garritsen</a> (nascut el 14 de maig de 1996 a Amstelveen, Països Baixos), més conegut pel seu nom artístic Martin Garrix, és un DJ i productor neerlandès.    
+Des de petit, ell mostrava un gran interès pel món de la música. Als 8 anys ja tocava la guitarra. Al 2004, després de veure l'actuació de Tiësto als Jocs Olimpics d'Atenes, va interessar-se pel món de la música electrònica.
+
+Al 2013 es va graduar a la Herman Brood Academy (una escola de producció i dj's).</p>
+
+<p> El 2013, després de publicar el seu famós "hit" <a href="https://youtu.be/gCYcHz2k5x0"target =_blank>Animals</a>, va esdevenir número 40 a la llista de DJ's de la revista DJ Mag. El 2014, després de publicar cançons com <a href="https://youtu.be/iXIDtf1wP0g"target =_blank>virus</a>, <a href="https://youtu.be/dzHdo4yxidc"target =_blank>Turn up the speakers</a> o <a href="https://youtu.be/UwsY_foobEw"target =_blank>Gold sikes</a> va ascendir fins a la quarta posició d'aquesta llista. El 2015, després de la seva polèmica ruptura amb la discogràfica holandesa Spinnin' Records i de publicar temes com <a href="https://youtu.be/rRry3DEaCgE"target =_blank>dragon</a>, va pujar només una posició fins al número 3.
+
+El 2016 va ser el millor any per a en Martin, va publicar els hits  <a href="https://youtu.be/95D6zmJreQU"target =_blank>Lions in the wild</a> i el mundialment conegut <a href="https://youtu.be/RnBT9uUYb1w"target =_blank>In the name of love</a> al seu nou segell discogràfic STMPD RCRDS.  Després d'aquest gran èxit,el 2016 va assolir la posició més elevada del rànquing convertint-se en el DJ més jove en ocupar aquesta posició, fet que va repetir l'any 2017 i 2018.</p>
+<img src="https://i.ytimg.com/vi/3z2Ybu_nMwM/maxresdefault.jpg" width=40%>
+<h2>Les millors Cançons: </h2>
+<p><a href="https://youtu.be/8OwVaewDtS8"target =_blank>Summer Days</a>, la seva última obra d'art, per a mi es una cançó brutal, a més a més l'ha fet juntament amb Macklemore </p>
+<p><a href="https://youtu.be/Lpjcm1F8tY8"target =_blank>High on life</a>, una altre obra d'art, però aquesta d'aquí poc ja tindrà un any però per a mi sesguirà sent una de les seves millors cançons </p>
+<p><a href="https://youtu.be/BDocp-VpCwY"target =_blank>Ocean</a>, Aquesta cançó també es una de les seves millors, juntament amb Khalid </p>
+<img src="https://los40es00.epimg.net/los40/imagenes/2019/04/30/musica/1556638880_127492_1556639309_noticia_normal.jpg" width=40%>
+<h4> Una foto dels "creadors de Summer Days" </h4>
+
+<h2> Curiositats </h2>
+<p> Des del 2014 Martin Garrix ha sortit als Top 100 Dj's: El 2013 estava en la posició 40, 2014 va fer un salt brutal i va arribar a la posició numero 4, el 2015 va seguir pujant però ja no amb tanta força i es va quedar en la posició numero 3, el 2016 va aconseguir el somni de la seva vida, ser el numero 1, des d'aquell any encara ningú l'ha pogut desvancar del Top 1</p>
+<p> <iframe width="560" height="315" src="https://youtu.be/06eSsOWcKYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> deixo un link de Youtube de la seva actuació a Tomorroeland el 2018  </p>
+<img src="https://i.pinimg.com/originals/1d/8e/54/1d8e54c0385d9ae6fb6aea3c65aceac7.jpg" width=40%>
+<h4> Aquest es el seu logo>
+
+
+</body>
+
+</html>
+
